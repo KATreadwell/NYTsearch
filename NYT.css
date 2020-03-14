@@ -1,0 +1,24 @@
+.jumbotron {
+    background-color: navy;
+    color: white;
+}
+.display-4 {
+    font-weight: bold;
+}
+
+button {
+    background: transparent;
+    border: none;
+}
+.form-group {
+    padding-left: 2%;
+}
+.col-2 {
+    padding-left: 2%;
+}
+
+#heart{
+    color: red;
+}
+
+
